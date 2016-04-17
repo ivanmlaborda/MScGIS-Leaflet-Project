@@ -1,0 +1,16 @@
+var historic_lleida_4326 = {
+  "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+
+  "features": [
+  { "type": "Feature", "properties": { "nom": "Arc del Pont - Indíbil i Mandoni", "edat": "Segle XVIII", "tipologia": "Monument", "imatge": "imagenes\/fotos_popup\/indibil_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.627423322298471, 41.615117577276216 ] } },
+  { "type": "Feature", "properties": { "nom": "La Seu Vella", "edat": "Segle XIII", "tipologia": "Edificació", "imatge": "imagenes\/fotos_popup\/seu_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.626861407241358, 41.618011604805282 ] } },
+  { "type": "Feature", "properties": { "nom": "La Suda", "edat": "Segle IX, XII i XV", "tipologia": "Edificació", "imatge": "imagenes\/fotos_popup\/suda_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.626055702579094, 41.618604377405866 ] } },
+  { "type": "Feature", "properties": { "nom": "Adoberies", "edat": "Segle XVIII", "tipologia": "Restes monumentals", "imatge": "imagenes\/fotos_popup\/adoberies_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.629191396418439, 41.617080008630118 ] } },
+  { "type": "Feature", "properties": { "nom": "Antic Convent del Roser", "edat": "Segle XVIII", "tipologia": "Edificació", "imatge": "imagenes\/fotos_popup\/roser_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.624011866446713, 41.614302469481387 ] } },
+  { "type": "Feature", "properties": { "nom": "Conjunt monumental de Gardeny", "edat": "Segle XII", "tipologia": "Edificació", "imatge": "imagenes\/fotos_popup\/gardeny_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.614733473867733, 41.608598817065079 ] } },
+  { "type": "Feature", "properties": { "nom": "Antic Hospital de Sta. Maria", "edat": "Segle XV", "tipologia": "Edificació", "imatge": "imagenes\/fotos_popup\/santamaria_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.623621803078472, 41.612643537929827 ] } },
+  { "type": "Feature", "properties": { "nom": "Dipòsit del Pla de l'aigua", "edat": "Segle XVIII", "tipologia": "Restes monumentals", "imatge": "imagenes\/fotos_popup\/diposit_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.622215017160225, 41.616334243944159 ] } },
+  { "type": "Feature", "properties": { "nom": "Palau de la Paeria", "edat": "Segle XII-XVII", "tipologia": "Edificació, restes monumentals", "imatge": "imagenes\/fotos_popup\/paeria_crop.png" }, "geometry": { "type": "Point", "coordinates": [ 0.626857410690439, 41.614651461176962 ] } }
+  ]
+  }
