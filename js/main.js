@@ -106,7 +106,12 @@ var opciones_draw = {
 
 var drawControl = new L.Control.Draw(opciones_draw).addTo(map);
 
-var miniMap = new L.Control.MiniMap(cartodb_mini).addTo(map);
+var opciones_miniMap = {
+  position: "topright",
+  toggleDisplay: true,
+};
+
+var miniMap = new L.Control.MiniMap(cartodb_mini, opciones_miniMap).addTo(map);
 
 //funciones
 
